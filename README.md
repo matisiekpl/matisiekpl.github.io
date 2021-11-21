@@ -39,7 +39,7 @@ Wordpress-based projects:
   </td>
   <td  width="30%" colspan="3">
    
-  ![Zrzut ekranu z 2021-10-24 15-26-21](https://user-images.githubusercontent.com/21008961/138597894-d0878685-749a-413d-af90-86e49914fee9.png)
+  ![Zrzut ekranu z 2021-10-24 15-26-21](./screenshots/screenshot4.png)
 
    
   </td>
