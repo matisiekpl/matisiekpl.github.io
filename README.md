@@ -39,7 +39,7 @@ Wordpress-based projects:
   </td>
   <td  width="30%" colspan="3">
    
-  ![Zrzut ekranu z 2021-10-24 15-26-21](./screenshots/screenshot4.png)
+  <img src="./screenshots/screenshot4.png">
 
    
   </td>
