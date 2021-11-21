@@ -21,12 +21,12 @@ Wordpress-based projects:
  <tr>
     <td width="60%"  colspan="8">
       
-   ![screenshot](https://user-images.githubusercontent.com/21008961/137363573-6fd4cdf5-f1b0-423c-92ef-1cca071a12a4.png)
+   <img src="https://user-images.githubusercontent.com/21008961/137363573-6fd4cdf5-f1b0-423c-92ef-1cca071a12a4.png">
 
    </td>
    <td width="40%"  colspan="4">
       
-   ![image](https://user-images.githubusercontent.com/21008961/137364071-973949ef-2d32-4308-a7b6-f86716f0b891.png)
+   <img src="https://user-images.githubusercontent.com/21008961/137364071-973949ef-2d32-4308-a7b6-f86716f0b891.png">
 
      
    </td>
@@ -34,12 +34,12 @@ Wordpress-based projects:
  <tr>
   <td width="70%" colspan="9">
    
-   ![Frame 1](https://user-images.githubusercontent.com/21008961/137365604-821dca94-28cd-48db-b118-485704dcd121.png)
+  <img src="https://user-images.githubusercontent.com/21008961/137365604-821dca94-28cd-48db-b118-485704dcd121.png">
    
   </td>
   <td  width="30%" colspan="3">
    
-  <img src="./screenshots/screenshot4.png">
+  <img src="https://user-images.githubusercontent.com/21008961/138597894-d0878685-749a-413d-af90-86e49914fee9.png">
 
    
   </td>
