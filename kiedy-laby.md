@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Authors 😎
 
-* **Mateusz Woźniak** 
-* **Filip Gieracki**
-* **Tomasz Kawiak**
-* **Przemysław Maresz**
+* [**Mateusz Woźniak**](https://matisiekpl.github.io/)
+* [**Filip Gieracki**](https://fgieracki.github.io/)
+* [**Tomasz Kawiak**](https://hevagog.github.io/)
+* [**Przemysław Maresz**](https://przemyslawmaresz.github.io/)
