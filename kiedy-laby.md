@@ -1,10 +1,10 @@
 <div align="center">
 
-# Kiedy Laby 🚀
+  <h1>Kiedy Laby 🚀</h1>
   
 Timetable app 📚   for <a href="https://www.eaiib.agh.edu.pl/">WEAIiIB AGH</a> available on Android and iOS 📱
 
-![image](https://user-images.githubusercontent.com/21008961/146562697-94604615-837c-47cc-9639-65d39ada3a61.png)
+<img src="https://user-images.githubusercontent.com/21008961/146562697-94604615-837c-47cc-9639-65d39ada3a61.png">
 
   
 <a href="https://apps.apple.com/us/app/kiedy-laby/id1600872233?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1639699200&h=358836d99842a1305c3f7bd1d90b711a" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
